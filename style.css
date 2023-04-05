@@ -1,0 +1,132 @@
+.prin{
+	width: 100%;
+	margin-top: 30%;
+	font-size: 550%;
+}
+a{
+	color: white;
+	 text-decoration: none;
+}
+.amigos{
+	color: black;
+	 text-decoration: none;
+}
+.uno{
+	background-size: cover;
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY1dgOdBGgm5yQDVUFffjWALueh306ggVsTw&usqp=CAU);
+}
+.m{
+	margin-top: 7%;
+}
+.p{
+	width: 200;
+	height: 200;
+	 border-radius: 50%; 
+}
+.s{
+  margin-left: 30%;
+  margin-top: -14%;
+  display: inline-block;
+}
+.seg{
+margin-left: 50%;
+  margin-top: -16%;
+  display: inline-block;
+}
+.se{
+	margin-left: 80%;
+	margin-top: -16%;
+	display: inline-block;
+}
+hr{
+
+	margin-top: 3%;
+}
+.perfil{
+	background-color: #1C2833;
+}
+.con{
+	width: 20%;
+	height: 20%;
+	margin-top: -3%;
+	 margin-left:0;
+	 display: inline-block;
+   border-radius: 50%;
+  
+}
+.navbar{
+  display: flex;
+  background-color:black;
+   position: fixed;
+    top: 0;
+    width: 100%;
+  font-size: 15px;
+}
+
+.nav-right{
+  text-align: right;
+  float:left;
+}
+
+.nav-right li {
+    display: inline;
+    float: left;
+    padding-left: 20px;
+  }
+
+  .nav-right li a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color:white;
+  }
+
+  .nav-right  li ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10;
+    overflow: hidden;
+    background-color: white;
+  }
+
+  .nav-right li a:hover {
+    background-color: #283747  ;
+  }
+
+  .nav-right .active {
+    background-color: white;
+  }
+.b{
+   background-color: black;
+  border:15px;
+  width: 10%;
+  height:6%;
+  margin-left: 20%;
+  margin-top: -11%;
+  display: inline-block;
+  border-radius: 20%;
+}
+
+.bo{
+   background-color: black;
+  border:15px;
+  width: 10%;
+  height:6%;
+  margin-left: 80%;
+  margin-top: -13%;
+  display: inline-block;
+  border-radius:20%; 
+}
+.c{
+  display: inline-block;
+  border: 20%;
+  width: 20%;
+  height: 20%;
+}
+.fo{
+  width: 65%;
+  height: 70%;
+}
+table {
+  border-spacing: 30px;
+}
