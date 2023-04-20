@@ -1,8 +1,8 @@
 body{
-	background-color:#1C2833;
+  background-color:#C39BD3 ;
 }
 img{
-	border-radius: 50%;
+  border-radius: 50%;
 }
 .navbar{
   display: flex;
@@ -47,8 +47,8 @@ img{
     background-color: white;
   }
   a{
-	color: white;
-	 text-decoration: none;
+  color: white;
+   text-decoration: none;
 }
 .f{
   border-radius: 10%;
